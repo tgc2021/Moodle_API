@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodelAPI", "MoodelAPI\MoodelAPI.csproj", "{45FCAD22-F295-46EE-AC95-9DC8CF66CCBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45FCAD22-F295-46EE-AC95-9DC8CF66CCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FCAD22-F295-46EE-AC95-9DC8CF66CCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FCAD22-F295-46EE-AC95-9DC8CF66CCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FCAD22-F295-46EE-AC95-9DC8CF66CCBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F14E05B-09AB-4564-8201-222A6A2A7DDF}
+	EndGlobalSection
+EndGlobal
